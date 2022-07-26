@@ -22,17 +22,9 @@ $funFact = "I've 5+ years coding experience working with languages/Frameworks li
 ?>
 ```
 
-[![Moween's GitHub stats](https://github-readme-stats.vercel.app/api?username=obipascal&show_icons=true&theme=radical)](https://github.com/moween/github-readme-stats)
+[![Obi's GitHub stats](https://github-readme-stats.vercel.app/api?username=obipascal&show_icons=true&theme=radical)](https://github.com/moween/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obipascal)](https://github.com/moween/github-readme-stats) -->
 
 
-
-<p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
-
-<!-- BLOG-POST-LIST:START -->
-- [Learn JavaScript Loops](https://orbie.hashnode.dev/javascript-loop-statement)
-- [Understanding-The-Scope-Of-JavaScript-Variables](https://orbie.hashnode.dev/understanding-the-scope-of-javascript-variables)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- <p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p> -->
+ 
