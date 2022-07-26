@@ -22,7 +22,7 @@ $funFact = "I've 5+ years coding experience working with languages/Frameworks li
 ?>
 ```
 
-[![Obi's GitHub stats](https://github-readme-stats.vercel.app/api?username=obipascal&show_icons=true&theme=radical)](https://github.com/moween/github-readme-stats)
+[![Obi's GitHub stats](https://github-readme-stats.vercel.app/api?username=obipascal&show_icons=true&theme=radical)](https://github.com/obipascal/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obipascal)](https://github.com/moween/github-readme-stats) -->
 
