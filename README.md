@@ -1,5 +1,5 @@
 <h2> Hi, I'm Obi Pascal Banjuare! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<p><em>Full-stack web developer with 5+ years working expeirence with tech companies around the world. Making the world a better place with my world class driven solution skills and best code practice.</em></p>
+<p><em>Full-stack software developer with 5+ years working expeirence in technologies like: PHP (Laravel), NodeJS(ExpressJS), React JS / React Native, HTML5, CSS3/SASS/SCSS, Bootstrap, JQuery and Axios (Ajax Http client for server and client side). /em></p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/Obi%20Pascal%20Banjuare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/obipascal12/)](https://www.linkedin.com/in/obipascal12/)
